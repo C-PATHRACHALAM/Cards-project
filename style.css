@@ -1,0 +1,31 @@
+.fa-pencil {
+    color:whitesmoke;
+    
+}
+.fa-sharp {
+    color:white;
+}
+.fa-trash-can{
+    color:white;
+    
+    
+}
+.fa-heart{
+    color:red;
+}
+.fa-key{
+    color:beige;
+}
+.card{
+    box-shadow: 2px 2px 3px 3px rgb(197, 201, 202);
+  
+}
+
+#ct1{
+    word-spacing:2em;
+}
+#salesid{
+    color:azure;
+    background-color:  rgb(131, 11, 211);
+}
+
